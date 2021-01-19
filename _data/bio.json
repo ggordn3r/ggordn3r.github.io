@@ -1,39 +1,39 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://techfolios.github.io/template/images/molly.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2020.",
+    "name": "Trey Gordner",
+    "label": "Graduate Student",
+    "picture": "https://ggordn3r.github.io/images/headshot%20-%20trey%20-%20600x600.jpg",
+    "email": "gg3@vt.edu",
+    "phone": "",
+    "website": "https://ggordn3r.github.io",
+    "summary": "I study urban planning and data analytics at Virginia Tech. Next stop: building software for a smart city future.",
     "location": {
       "address": "",
-      "postalCode": "96822",
-      "city": "Honolulu",
+      "postalCode": "22203",
+      "city": "Arlington",
       "countryCode": "USA",
-      "region": "Hawaii"
+      "region": "Virginia"
     },
     "profiles": [
       {
         "network": "github",
-        "username": "mmaluhia",
-        "url": "http://github.com/changeme"
+        "username": "ggordn3r",
+        "url": "http://github.com/ggordn3r"
       },
       {
         "network": "linkedin",
-        "username": "mollymaluhia",
-        "url": "http://linkedin.com/in/changeme"
+        "username": "tgordner",
+        "url": "https://www.linkedin.com/in/tgordner/"
       },
       {
         "network": "twitter",
-        "username": "mollymal",
-        "url": "http://twitter.com/changeme"
+        "username": "ggordn3r",
+        "url": "https://twitter.com/ggordn3r"
       },
       {
-        "network": "instagram",
-        "username": "molly",
-        "url": "http://instagram.com/changeme"
+        "network": "pocket",
+        "username": "gordner",
+        "url": "https://getpocket.com/@53fA7gp4daf62T7409pd946p46Tdd4675f2v6ff2cqDe91Ad9088dC77l32LyU02"
       }
     ]
   },
