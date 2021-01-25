@@ -148,57 +148,67 @@
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "FairVote",
+      "position": "Contract Product Manager",
+      "website": "rankit.vote",
+      "startDate": "2019-04-01",
+      "endDate": "2020-12-01",
+      "summary": "I led the cross-functional team building RankIt, an open-source, mobile-first web app that teaches people to create, vote in, and understand the results of ranked choice polls",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
-      ]
-    }
-  ],
-  "volunteer": [
-    {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
-      "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
-      "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "The web app receives over 10,000 visitors per month.",
+        "Defined, developed, and deployed RankIt 1.0 on budget in less than 8 months and immediately won internal support for a second release.",
+        "Conducted user interviews with leaders of electoral reform movements in 3 states to determine user needs."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "company": "International Baccalaureate Organization",
+      "position": "Contract Product Manager (2 terms, 7 months total)",
+      "website": "ibo.org",
+      "startDate": "2017-01-01",
+      "endDate": "2018-06-01",
+      "summary": "Served as product manager of physical and digital products related to the Middle Years Programme, including 2 online teacher support systems.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+        "Managed a joint software product, the Tes content-sharing hub for IB educators, from beta launch to full release.",
+        "Analyzed 5 years of ecommerce data to identify new business opportunities in branded apparel and merchandise.",
+        "Advised on an online student assessment tool that was nominated for 6 international education awards."
+      ]
+    },
+    {
+      "company": "Pandoodle",
+      "position": "Sales Manager, then Product Manager",
+      "website": "",
+      "startDate": "2013-05-01",
+      "endDate": "2015-10-01",
+      "summary": "I managed the development of the first online marketplace for brand placement from concept to market using lean startup and Scrum Agile methodologies.",
+      "highlights": [
+        "Planned, managed, and released multiple versions of enterprise video advertising platforms."
+        "After being certified as a Scrum Product Owner (CSPO), led the team in a transition from waterfall to Scrum Agile software development practices",
+        "Managed an augmented reality project for Hasbro promoting Transformers 4 at Comic Con and Google I/O.",
+        "Presented the results of a partnership with Disney through live interpretation to an audience of over 600 at Unite China 2014 in Beijing.",
+      ]
+    }    
+  ],
+  "volunteer": [
+    {
+      "organization": "FairVote Virginia",
+      "website": "https://www.fairvotevirginia.org/",
+      "position": "Board Member, Governance Committee Chair",
+      "startDate": "2019-12-01",
+      "endDate": "Present",
+      "summary": "I serve as technical expert for a non-profit organization advocating for electoral reform in Virginia, to include managing their web presence, advising on digital communications strategy, and performing data analysis.",
+      "highlights": [
+        "Through an in-person meeting, changed my state senator's vote from 'Nay' to 'Yea' on RCV enabling legislation, which passed in 2020.",
+        "Set up Slack and Google Apps and trained board members in online collaboration.",
+        "Enabled online donations through Paypal."
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
-    {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
+      "title": "McNair Scholarship",
+      "date": "2009-2013",
+      "awarder": "University of South Carolina",
+      "summary": "Full merit scholarship for out-of-state undergraduates."
     }
   ],
   "references": [
