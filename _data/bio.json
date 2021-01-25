@@ -1,7 +1,7 @@
 {
   "basics": {
     "name": "Trey Gordner",
-    "label": "Graduate Student",
+    "label": "Graduate Student & Research Assistant",
     "picture": "https://ggordn3r.github.io/images/headshot%20-%20trey%20-%20600x600.jpg",
     "email": "gg3@vt.edu",
     "phone": "",
@@ -39,19 +39,24 @@
   },
   "interests": [
     {
-      "name": "internet of things",
+      "name": "Public Interest Technology",
       "keywords": [
-        "Arduino",
-        "TI MSP430"
+//        "Arduino",
+//       "TI MSP430"
       ]
     },
     {
-      "name": "data mining",
+      "name": "City Planning",
       "keywords": [
       ]
     },
     {
-      "name": "artificial intelligence",
+      "name": "Infrastructure",
+      "keywords": [
+      ]
+    },
+    {
+      "name": "Urban Economics",
       "keywords": [
       ]
     }
@@ -59,37 +64,80 @@
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
-        "C",
-        "C++",
-        "Java",
-        "Javascript",
-        "Assembly",
-        "Common Lisp"
+        "Python (including numpy, pandas, plotly, and scikit-learn)",
+        "Java (standard library)",
       ]
     },
     {
       "name": "Toolsets/OS",
-      "level": "",
+      "level": "Intermediate",
       "keywords": [
-        "MacOS",
-        "Ubuntu",
+        "Windows",
+        "Anaconda",
         "Git/GitHub",
-        "g++",
-        "TI LaunchPad"
+        "Jupyter Notebooks",
+        "VSCode",
+        "APIs",
+        "ArcGIS"
+      ]
+    },
+        {
+      "name": "Machine Learning",
+      "level": "Novice",
+      "keywords": [
+        "Classification",
+        "Clustering",
+        "Association Analysis",
+        "Anomaly Detection",
+        "Regression Analysis",
+        "Model Evaluation",
+        "Cross-validation"
+      ]
+    },
+        {
+      "name": "Other Technical Skills",
+      "level": "Intermediate",
+      "keywords": [
+        "Data Mining",
+        "Data Cleaning & Analysis",
+        "Data Visualization",
+        "Technical Writing & Presentations",
+        "Unit Testing",
+        "GIS"
       ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Virginia Polytechnic Institute and State University",
+      "area": "Urban Planning (expected Spring 2022)",
+      "studyType": "M.U.R.P.",
+      "startDate": "Fall 2020",
       "endDate": "Present",
-      "gpa": "",
+      "gpa": "3.95",
       "courses": [
+        "Data Analytics",
+        "Intro to Urban Computing",
+        "Software Design & Data Structures",
+        "Computer Applications in Planning",
+        "Planning Methods and Technology"
+      ]
+    },
+        {
+      "institution": "University of South Carolina",
+      "area": "International Business, Entrepreneurship",
+      "studyType": "B.S.B.A.",
+      "startDate": "Fall 2009",
+      "endDate": "Fall 2013",
+      "gpa": "3.925",
+      "courses": [
+        "Intro to Logic",
+        "Business Statistics",
+        "Leadership in Organizations",
+        "Business and Professional Speaking",
+        "Professional Communications"
       ]
     }
   ],
