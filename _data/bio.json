@@ -1,73 +1,120 @@
 {
   "basics": {
-    "name": "Molly Maluhia",
-    "label": "Student",
-    "picture": "https://github.com/kambergjohnson.png",
-    "email": "molly@hawaii.edu",
-    "phone": "808-333-4444",
-    "website": "https://mmaluhia.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "name": "Trey Gordner",
+    "label": "Policy Researcher/Data Scientist",
+    "picture": "https://github.com/ggordn3r.png",
+    "email": "gordner@hawaii.edu",
+    "website": "https://ggordn3r.github.io",
+    "summary": "At UHERO, I develop and advocate for policy proposals that will lead to shared, sustainable prosperity for the people of Hawaii. Currently focused on housing affordability and disaster recovery.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "ggordn3r", "url": "http://github.com/ggordn3r" },
+      { "network": "linkedin", "username": "tgordner", "url": "https://www.linkedin.com/in/tgordner/" },
+      { "network": "x", "username": "ggordn3r", "url": "https://x.com/ggordn3r" },
+      { "network": "pocket", "username": "gordner", "url": "https://getpocket.com/@53fA7gp4daf62T7409pd946p46Tdd4675f2v6ff2cqDe91Ad9088dC77l32LyU02" }
     ]
   },
   "interests": [
-    { "name": "Interactive media" },
-    { "name": "Neuromorphic Computing" },
-    { "name": "Quantum Computing" },
-    { "name": "Robotics" },
-    { "name": "3D Graphics" }
+    { "name": "Housing affordability" },
+    { "name": "Zoning/land use" },
+    { "name": "Infrastructure" },
+    { "name": "Urban economics" },
+    { "name": "Urban planning" }
   ],
   "skills": [
     {
-      "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
+      "name": "Languages",
+      "keywords": [ "Python", "R", "SQL" ]
     },
     {
-      "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
+      "name": "Tools",
+      "keywords": [ "Git/GitHub", "GIS", "Anaconda", "Power BI", "LLMs" ]
     }
   ],
   "education": [
     {
-      "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2018)",
-      "studyType": "B.S.",
-      "startDate": "2013-09-01",
+      "institution": "Virginia Polytechnic Institute and State University",
+      "area": "Urban Planning (expected Spring 2022)",
+      "studyType": "Masters",
+      "startDate": "2019-08-30",
       "endDate": "Present",
+      "gpa": "3.95",
+      "courses": [
+        "Data Analytics",
+        "Intro to Urban Computing",
+        "Software Design & Data Structures",
+        "Computer Applications in Planning",
+        "Planning Methods and Technology"
+      ]
+    },
+        {
+      "institution": "University of South Carolina",
+      "area": "International Business, Entrepreneurship",
+      "studyType": "Bachelors",
+      "startDate": "2009-09-01",
+      "endDate": "2013-12-01",
+      "gpa": "3.925",
       "courses": [
       ]
     }
   ],
   "work": [
     {
-      "company": "UH Manoa Board of Publications",
-      "position": "Web Developer",
-      "website": "",
-      "startDate": "2015-08-01",
-      "endDate": "Present",
-      "summary": "Head of online presence for Ka Leo",
+      "company": "Koios",
+      "position": "Founder & CEO",
+      "website": "koios.co",
+      "startDate": "2015-03-14",
+      "endDate": "2020-08-01",
+      "summary": "Founded a marketing technology firm now serving over 40 local government and nonprofit clients.",
       "highlights": [
-        "Maintain, update, and oversee official college newspaper website",
-        "Drive, design and build student-community projects for UH Manoa"
+        "Delivered 3 products from concept to market using lean startup and Scrum Agile methodologies.",
+        "Raised $125,000 in startup funding through hackathons, business plan competitions, and economic development programs.",
+        "Directed over $2.4M in annual advertising spending on behalf of clients.",
+        "Earned Google Partner status and Certified Ad Grants Professional (CPC) designation for quality and scope of work.",
+        "Presented on stage 11 times in 2 years at national conferences to audiences of 80-200 people."
+
       ]
     },
     {
-      "company": "UH Information Technology Services",
-      "position": "Help Desk Consultant",
-      "website": "http://www.hawaii.edu/its/",
-      "startDate": "2015-01-01",
-      "endDate": "2016-03-15",
-      "summary": "",
+      "company": "FairVote",
+      "position": "Contract Product Manager",
+      "website": "rankit.vote",
+      "startDate": "2019-04-01",
+      "endDate": "2020-12-01",
+      "summary": "I led the cross-functional team building RankIt, an open-source, mobile-first web app that teaches people to create, vote in, and understand the results of ranked choice polls",
       "highlights": [
-        "Troubleshoot software, hardware and networking issues over the phone",
-        "Answer phone and email responses to the ITS Help Desk"
+        "The web app receives over 10,000 visitors per month.",
+        "Defined, developed, and deployed RankIt 1.0 on budget in less than 8 months and immediately won internal support for a second release.",
+        "Conducted user interviews with leaders of electoral reform movements in 3 states to determine user needs."
       ]
-    }
+    },
+    {
+      "company": "International Baccalaureate Organization",
+      "position": "Contract Product Manager (2 terms, 7 months total)",
+      "website": "ibo.org",
+      "startDate": "2017-01-01",
+      "endDate": "2018-06-01",
+      "summary": "Served as product manager of physical and digital products related to the Middle Years Programme, including 2 online teacher support systems.",
+      "highlights": [
+        "Managed a joint software product, the Tes content-sharing hub for IB educators, from beta launch to full release.",
+        "Analyzed 5 years of ecommerce data to identify new business opportunities in branded apparel and merchandise.",
+        "Advised on an online student assessment tool that was nominated for 6 international education awards."
+      ]
+    },
+    {
+      "company": "Pandoodle",
+      "position": "Sales Manager, then Product Manager",
+      "website": "",
+      "startDate": "2013-05-01",
+      "endDate": "2015-10-01",
+      "summary": "I managed the development of the first online marketplace for brand placement from concept to market using lean startup and Scrum Agile methodologies.",
+      "highlights": [
+        "Planned, managed, and released multiple versions of enterprise video advertising platforms.",
+        "After being certified as a Scrum Product Owner (CSPO), led the team in a transition from waterfall to Scrum Agile software development practices",
+        "Managed an augmented reality project for Hasbro promoting Transformers 4 at Comic Con and Google I/O.",
+        "Presented the results of a partnership with Disney through live interpretation to an audience of over 600 at Unite China 2014 in Beijing."
+      ]
+    }    
   ],
   "volunteer": [
     {
