@@ -5,66 +5,96 @@
     "picture": "https://github.com/ggordn3r.png",
     "email": "gordner@hawaii.edu",
     "website": "https://ggordn3r.github.io",
-    "summary": "At UHERO, I develop and advocate for policy proposals that will lead to shared, sustainable prosperity for the people of Hawaii. Currently focused on housing affordability and disaster recovery.",
-    "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
+    "summary": "A housing policy advisor and researcher, advocate for efficient land use, and urban planner who specializes in leading small, cross-functional teams to deliver policy and process innovation. Former Federal civil servant. Supply-side progressive. Proud father of 1.5.",
+    "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "ggordn3r", "url": "http://github.com/ggordn3r" },
       { "network": "linkedin", "username": "tgordner", "url": "https://www.linkedin.com/in/tgordner/" },
-      { "network": "x", "username": "ggordn3r", "url": "https://x.com/ggordn3r" },
+      { "network": "twitter", "username": "ggordn3r", "url": "https://x.com/ggordn3r" },
+      { "network": "github", "username": "ggordn3r", "url": "http://github.com/ggordn3r" },
       { "network": "pocket", "username": "gordner", "url": "https://getpocket.com/@53fA7gp4daf62T7409pd946p46Tdd4675f2v6ff2cqDe91Ad9088dC77l32LyU02" }
     ]
   },
   "interests": [
     { "name": "Housing affordability" },
-    { "name": "Zoning/land use" },
+    { "name": "Zoning" },
     { "name": "Infrastructure" },
-    { "name": "Urban economics" },
-    { "name": "Urban planning" }
+    { "name": "Urban economics" }
   ],
   "skills": [
     {
-      "name": "Languages",
-      "keywords": [ "Python", "R", "SQL" ]
+      "name": "Policy Skills",
+      "keywords": [ "Policy Research", "Bill Drafting", "Project Management", "Public Speaking", "Coalition-Building", "Citizen and Stakeholder Engagement", "Strategic Planning", "Grant-writing", "Evaluation", "Regulatory Analysis" ]
     },
     {
-      "name": "Tools",
-      "keywords": [ "Git/GitHub", "GIS", "Anaconda", "Power BI", "LLMs" ]
-    }
-  ],
-  "education": [
-    {
-      "institution": "Virginia Polytechnic Institute and State University",
-      "area": "Urban Planning (expected Spring 2022)",
-      "studyType": "Masters",
-      "startDate": "2019-08-30",
-      "endDate": "Present",
-      "gpa": "3.95",
-      "courses": [
-        "Data Analytics",
-        "Intro to Urban Computing",
-        "Software Design & Data Structures",
-        "Computer Applications in Planning",
-        "Planning Methods and Technology"
-      ]
+      "name": "Business Skills",
+      "keywords": [ "Team Leadership", "Product Management", "Digital Marketing/Advertising", "Technical Writing", "Finance", "Government Contracting", "Working Remotely", "Performance Metrics" ]
     },
-        {
-      "institution": "University of South Carolina",
-      "area": "International Business, Entrepreneurship",
-      "studyType": "Bachelors",
-      "startDate": "2009-09-01",
-      "endDate": "2013-12-01",
-      "gpa": "3.925",
-      "courses": [
-      ]
+    {
+      "name": "Technical Skills",
+      "keywords": [ "Machine Learning", "Coding (R, Python, SQL)", "GIS", "Git/GitHub", "Data Analysis", "Data Visualization", "Geospatial Data", "Data Strategy" ]
     }
   ],
   "work": [
     {
+      "company": "University of Hawaii Economic Research Organization (UHERO)",
+      "position": "Policy Researcher/Data Scientist",
+      "website": "https://uhero.hawaii.edu/",
+      "startDate": "2024-06",
+      "endDate": "Present",
+      "summary": "I develop and advocate for policy proposals that will lead to shared, sustainable prosperity for the people of Hawaii at our premier in-state think tank. Currently focused on housing affordability and disaster recovery after the Maui wildfires.",
+      "highlights": [
+        "Proposed 9 policy ideas to improve housing affordability to a coalition of State nonprofit, government, and business leaders.",
+        "Identified inconsistencies in Honolulu zoning and development standards in apartment and mixed use districts that constrain building size far below policy intention.",
+        "Directing a major economic study of a bill that would phase out half of the short-term rentals on Maui. The study estimates impacts on jobs, incomes, tourism, taxes, home prices, and rents."
+      ]
+    },
+    {
+      "company": "Office of the Governor, State of Hawaii",
+      "position": "Recovery and Resilience Advisor",
+      "website": "https://governor.hawaii.gov/",
+      "startDate": "2023-11",
+      "endDate": "2024-05",
+      "summary": "Temporary detail to Governor Green's administration to accelerate disaster recovery after the 2023 Maui Wildfires. I streamlined permitting processes for interim and permanent housing projects, reviewed and revised regulations and legislation affecting disaster recovery, and advised the State Disaster Recovery Coordinator and Housing Team on policy and delivery.",
+      "highlights": [
+        "Developed and documented an iterable strategy to streamline State permitting processes through a comprehensive review of emergency orders, administrative rules, and statutes.",
+        "Coordinated leaders across government to facilitate Federal, State and County entitlements for several interim housing projects, including Kapalua Village, the first to break ground after the disaster.",
+        "Built an internal tracking system for priority bills and resolutions during the 2024 legislative session and analyzed bills affecting building requirements, budgets, governance structures, insurance and other recovery and resilience issues. Drafted official testimony for the SDRC.",
+        "Prototyped a data dashboard and strategic plan for the Governor's Housing Team."
+      ]
+    },
+    {
+      "company": "U.S. Digital Corps",
+      "position": "Product Fellow",
+      "website": "https://digitalcorps.gsa.gov/",
+      "startDate": "2022-06",
+      "endDate": "2024-06",
+      "summary": "I developed a data strategy for the U.S. Department of Health and Human Services (HHS), the largest civilian agency in the Federal government, with over $2.9T in annual budgetary resources and 80,000 full-time employees. I supported the Chief Data Officer in drafting policy, facilitating governance and knowledge sharing, and improving recruitment and retention.",
+      "highlights": [
+        "Led the 10-person HHS Data Strategy team, serving also as project manager and primary author. The strategy engaged over 150 stakeholders across CDC, FDA, CMS, NIH, and all other HHS divisions, to develop a vision, priorities, and 25 cross-agency initiatives to increase the Department's data capacity and develop data-driven approaches to our largest challenges.",
+        "Developed and facilitated a complete set of strategic planning exercises for the Office of the Chief Data Officer to define our vision, mission, workstreams, key performance indicators (KPIs), and measurement plans for the upcoming fiscal year.",
+        "Improved and automated compliance procedures for data collection and privacy regulations. Programmed a business intelligence dashboard and automated notification system in Microsoft Power Apps to increase efficiency and save hundreds of employee hours each year.",
+        "Was selected for the inaugural cohort of 38 fellows from a pool of over 1,000 applicants. The U.S. Digital Corps program invites talented early-career technologists to join innovative government teams working on critical impact areas for a two-year tour of duty."
+      ]
+    },
+    {
+      "company": "Virginia Tech",
+      "position": "Graduate Research Assistant",
+      "website": "",
+      "startDate": "2020-05",
+      "endDate": "2022-05",
+      "summary": "I conducted research on potential applications for artificial intelligence in urban planning and contributed to teaching and curriculum development. I analyzed socioeconomic data to develop actionable recommendations for Virginia governments and economic development organizations.",
+      "highlights": [
+        "Contributed two sections to a successful $150,000 NSF grant proposal. Co-authored the resulting journal article published in the International Journal of Urban Sciences:  'The prospects of artificial intelligence in urban planning', and a blog post published by APA.",
+        "Evaluated a policy proposal to establish a statewide robotics hub, developed recommendations, drafted and presented my report to state economic development leaders.",
+        "Developed and conducted surveys for manufacturing and IT business leaders during the COVID-19 pandemic and analyzed results to develop local and regional recovery policies"
+      ]
+    },
+    {
       "company": "Koios",
       "position": "Founder & CEO",
-      "website": "koios.co",
-      "startDate": "2015-03-14",
-      "endDate": "2020-08-01",
+      "website": "https://koios.org/",
+      "startDate": "2015-03",
+      "endDate": "2020-08",
       "summary": "Founded a marketing technology firm now serving over 40 local government and nonprofit clients.",
       "highlights": [
         "Delivered 3 products from concept to market using lean startup and Scrum Agile methodologies.",
@@ -74,92 +104,90 @@
         "Presented on stage 11 times in 2 years at national conferences to audiences of 80-200 people."
 
       ]
-    },
-    {
-      "company": "FairVote",
-      "position": "Contract Product Manager",
-      "website": "rankit.vote",
-      "startDate": "2019-04-01",
-      "endDate": "2020-12-01",
-      "summary": "I led the cross-functional team building RankIt, an open-source, mobile-first web app that teaches people to create, vote in, and understand the results of ranked choice polls",
-      "highlights": [
-        "The web app receives over 10,000 visitors per month.",
-        "Defined, developed, and deployed RankIt 1.0 on budget in less than 8 months and immediately won internal support for a second release.",
-        "Conducted user interviews with leaders of electoral reform movements in 3 states to determine user needs."
-      ]
-    },
-    {
-      "company": "International Baccalaureate Organization",
-      "position": "Contract Product Manager (2 terms, 7 months total)",
-      "website": "ibo.org",
-      "startDate": "2017-01-01",
-      "endDate": "2018-06-01",
-      "summary": "Served as product manager of physical and digital products related to the Middle Years Programme, including 2 online teacher support systems.",
-      "highlights": [
-        "Managed a joint software product, the Tes content-sharing hub for IB educators, from beta launch to full release.",
-        "Analyzed 5 years of ecommerce data to identify new business opportunities in branded apparel and merchandise.",
-        "Advised on an online student assessment tool that was nominated for 6 international education awards."
-      ]
-    },
-    {
-      "company": "Pandoodle",
-      "position": "Sales Manager, then Product Manager",
-      "website": "",
-      "startDate": "2013-05-01",
-      "endDate": "2015-10-01",
-      "summary": "I managed the development of the first online marketplace for brand placement from concept to market using lean startup and Scrum Agile methodologies.",
-      "highlights": [
-        "Planned, managed, and released multiple versions of enterprise video advertising platforms.",
-        "After being certified as a Scrum Product Owner (CSPO), led the team in a transition from waterfall to Scrum Agile software development practices",
-        "Managed an augmented reality project for Hasbro promoting Transformers 4 at Comic Con and Google I/O.",
-        "Presented the results of a partnership with Disney through live interpretation to an audience of over 600 at Unite China 2014 in Beijing."
-      ]
     }    
+  ],
+  "education": [
+    {
+      "institution": "Virginia Polytechnic Institute and State University",
+      "area": "Urban Planning / Data Analytics",
+      "studyType": "Masters",
+      "startDate": "2019-08",
+      "endDate": "2022-05",
+      "courses": [
+        "Thesis: Regulatory Utilization: A Novel Measure of Public Land Use Controls Comparable Across Space and Time and Calculable from Open-Source Data",
+        "I combined urban planning with computer science, enabling me to analyze large municipal datasets and preparing me to direct evidence-based policymaking or performance management at the regional level. My projects focused on data analysis in transportation, housing, and zoning.",
+        "Received the APA Virginia Outstanding Student Award in 2022, the Plan Virginia Certificate Award for student service to the program in 2021, and the Marsha Ritzdorf Book Award in 2020." 
+      ]
+    },
+        {
+      "institution": "University of South Carolina",
+      "area": "International Business, Entrepreneurship",
+      "studyType": "Bachelors of Business Administration",
+      "startDate": "2009-09-01",
+      "endDate": "2013-12-01",
+      "courses": ["McNair Scholarship  (one of 40 full scholarships awarded to out-of-state students)", 
+      "Residence Hall President, Student Senator, and Student Council Cabinet Member."
+      ]
+    }
   ],
   "volunteer": [
     {
-      "organization": "Center for Renewable Energy and Island Sustainability",
-      "website": "http://manoa.hawaii.edu/reis",
-      "position": "Software Developer",
-      "startDate": "2016-01-01",
+      "organization": "Hawaii Zoning Atlas",
+      "website": "https://www.zoningatlas.org/hawaii",
+      "position": "Director",
+      "startDate": "2022-05",
       "endDate": "Present",
-      "summary": "Lead developer for weather sensing project",
+      "summary": "I led a team of 3 student interns and 10 volunteers mapping Hawaii's zoning regulations and analyzing their effects on housing supply and affordability, as featured on Hawaii Public Radio and Honolulu Civil Beat. I help policymakers draft legislation to reform zoning rules that would lead to more affordable and compact development.",
       "highlights": [
-        "Design firmware for distributed weather sensor network",
-        "Maintain custom data collection and storage infrastructure"
+        "Provided research, drafting assistance, and testimony on several successful bills signed into state law in 2024, including HB1630, SB3202, and HB2090.",
+        "Completed zoning analysis of all jurisdictions and launched a public website within 1 year, only the fourth state in the country to do so.",
+        "Selected by Code for America as one of 13 high-impact community projects nationwide. Awarded an in-kind grant including paid staff, volunteer recruitment, and software tools.",
+        "Led workshops on equity in zoning at UH-Manoa and APA Hawaii for AICP continuing education credit, including recommendations to enable missing middle housing and eliminate parking minimums."
       ]
     },
     {
-      "organization": "",
-      "website": "",
-      "position": "Professional organization involvement",
-      "startDate": "",
-      "endDate": "",
-      "summary": "",
+      "organization": "Ewa Neighborhood Board",
+      "website": "https://gogordner.com/",
+      "position": "Elected Member",
+      "startDate": "2023-05",
+      "endDate": "Present",
+      "summary": "I help our neighborhood address homelessness, traffic, and jobs with my background in technology and urban planning.",
       "highlights": [
-        "Chair, ACM Manoa, 2016-Present",
-        "Member, IEEE Student Branch, 2014-Present",
-        "Webmaster/IT Officer, IEEE Student Branch, UH Manoa, 2012-2013"
+      ]
+    },
+    {
+      "organization": "Department of Urban and Regional Planning, UH-Manoa",
+      "website": "",
+      "position": "Lecturer",
+      "startDate": "2024-01",
+      "endDate": "2024-05",
+      "summary": "I taught PLAN 495: Housing, Land, and Community, a writing-intensive undergraduate/graduate elective in the Department of Urban and Regional Planning. Our topics include zoning and building regulations, real estate finance, the politics of housing, parking management, and walkable urbanism.",
+      "highlights": [
+      ]
+    },
+    {
+      "organization": "Faith Action for Community Equity",
+      "website": "https://ggordn3r.shinyapps.io/faithactionmap/",
+      "position": "Data Analysis Volunteer",
+      "startDate": "2021-08",
+      "endDate": "2022-11",
+      "summary": "I built an interactive online map of candidate parcels for affordable housing projects from open GIS data.",
+      "highlights": [
       ]
     }
   ],
   "awards": [
     {
-      "title": "B+ Scholarship",
-      "date": "2013-Present",
-      "awarder": "State of Hawaii",
-      "summary": "Scholarships awarded to incoming freshmen and continuing students who complete a rigorous high school curriculum with a minimum overall GPA of 3.0 at a Hawai'i public school."
-    },
+      "title": "Vibrant Communities Fellow",
+      "date": "2024",
+      "awarder": "Lincoln Institute of Land Policy",
+      "summary": "The fellows program focuses on investing in leadership, policy, and advanced public sector practice skills to engage municipalities in building vibrant, engaged communities marked by trust and agency for positive change."
+    },    
     {
-      "title": "First place",
-      "date": "2015",
-      "awarder": "University of Hawaii Micromouse Competition",
-      "summary": "My team won first place in 2015.  See my portfolio site for more details."
-    }
-  ],
-  "references": [
-    {
-      "name": "Available upon request"
+      "title": "Advocacy Fellow (Cohort II)",
+      "date": "2024",
+      "awarder": "Partners for Democracy",
+      "summary": "I learned to develop and execute successful political and public policy advocacy campaigns at this Hawaii non-partisan civic leadership development program."
     }
   ]
 }
