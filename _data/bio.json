@@ -5,13 +5,12 @@
     "picture": "https://github.com/ggordn3r.png",
     "email": "gordner@hawaii.edu",
     "website": "https://ggordn3r.github.io",
-    "summary": "A housing policy advisor and researcher, advocate for efficient land use, and urban planner who specializes in leading small, cross-functional teams to deliver policy and process innovation. Former Federal civil servant. Supply-side progressive. Proud father of 1.5.",
+    "summary": "A housing policy advisor and researcher, advocate for efficient land use, and urban planner who specializes in leading small, cross-functional teams to deliver policy and process innovation. Former civil servant and tech entrepreneur. Supply-side progressive. Proud father of 1.5.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "linkedin", "username": "tgordner", "url": "https://www.linkedin.com/in/tgordner/" },
       { "network": "twitter", "username": "ggordn3r", "url": "https://x.com/ggordn3r" },
-      { "network": "github", "username": "ggordn3r", "url": "http://github.com/ggordn3r" },
-      { "network": "pocket", "username": "gordner", "url": "https://getpocket.com/@53fA7gp4daf62T7409pd946p46Tdd4675f2v6ff2cqDe91Ad9088dC77l32LyU02" }
+      { "network": "github", "username": "ggordn3r", "url": "http://github.com/ggordn3r" }
     ]
   },
   "interests": [
@@ -23,22 +22,22 @@
   "skills": [
     {
       "name": "Policy Skills",
-      "keywords": [ "Policy Research", "Bill Drafting", "Project Management", "Public Speaking", "Coalition-Building", "Citizen and Stakeholder Engagement", "Strategic Planning", "Grant-writing", "Evaluation", "Regulatory Analysis" ]
+      "keywords": [ "Policy Analysis & Evaluation", "Legislative Research", "Bill Drafting", "Project Management", "Public Speaking", "Coalition-Building", "Citizen and Stakeholder Engagement", "Strategic Planning", "Grant-Writing" ]
     },
     {
       "name": "Business Skills",
-      "keywords": [ "Team Leadership", "Product Management", "Digital Marketing/Advertising", "Technical Writing", "Finance", "Government Contracting", "Working Remotely", "Performance Metrics" ]
+      "keywords": [ "Team Leadership", "Product Management", "Digital Marketing/Advertising", "Technical Writing", "Finance", "Contracts", "Performance Metrics", "Working Remotely" ]
     },
     {
       "name": "Technical Skills",
-      "keywords": [ "Machine Learning", "Coding (R, Python, SQL)", "GIS", "Git/GitHub", "Data Analysis", "Data Visualization", "Geospatial Data", "Data Strategy" ]
+      "keywords": [ "Coding (R, Python, SQL)", "GIS", "Git/GitHub", "Data Analysis & Visualization" ]
     }
   ],
   "work": [
     {
       "company": "University of Hawaii Economic Research Organization (UHERO)",
       "position": "Policy Researcher/Data Scientist",
-      "website": "https://uhero.hawaii.edu/",
+      "website": "https://uhero.hawaii.edu",
       "startDate": "2024-06",
       "endDate": "Present",
       "summary": "I develop and advocate for policy proposals that will lead to shared, sustainable prosperity for the people of Hawaii at our premier in-state think tank. Currently focused on housing affordability and disaster recovery after the Maui wildfires.",
@@ -51,7 +50,7 @@
     {
       "company": "Office of the Governor, State of Hawaii",
       "position": "Recovery and Resilience Advisor",
-      "website": "https://governor.hawaii.gov/",
+      "website": "https://governor.hawaii.gov",
       "startDate": "2023-11",
       "endDate": "2024-05",
       "summary": "Temporary detail to Governor Green's administration to accelerate disaster recovery after the 2023 Maui Wildfires. I streamlined permitting processes for interim and permanent housing projects, reviewed and revised regulations and legislation affecting disaster recovery, and advised the State Disaster Recovery Coordinator and Housing Team on policy and delivery.",
@@ -65,7 +64,7 @@
     {
       "company": "U.S. Digital Corps",
       "position": "Product Fellow",
-      "website": "https://digitalcorps.gsa.gov/",
+      "website": "https://digitalcorps.gsa.gov",
       "startDate": "2022-06",
       "endDate": "2024-06",
       "summary": "I developed a data strategy for the U.S. Department of Health and Human Services (HHS), the largest civilian agency in the Federal government, with over $2.9T in annual budgetary resources and 80,000 full-time employees. I supported the Chief Data Officer in drafting policy, facilitating governance and knowledge sharing, and improving recruitment and retention.",
@@ -92,7 +91,7 @@
     {
       "company": "Koios",
       "position": "Founder & CEO",
-      "website": "https://koios.org/",
+      "website": "https://koios.org",
       "startDate": "2015-03",
       "endDate": "2020-08",
       "summary": "Founded a marketing technology firm now serving over 40 local government and nonprofit clients.",
@@ -115,18 +114,17 @@
       "endDate": "2022-05",
       "courses": [
         "Thesis: Regulatory Utilization: A Novel Measure of Public Land Use Controls Comparable Across Space and Time and Calculable from Open-Source Data",
-        "I combined urban planning with computer science, enabling me to analyze large municipal datasets and preparing me to direct evidence-based policymaking or performance management at the regional level. My projects focused on data analysis in transportation, housing, and zoning.",
-        "Received the APA Virginia Outstanding Student Award in 2022, the Plan Virginia Certificate Award for student service to the program in 2021, and the Marsha Ritzdorf Book Award in 2020." 
+        "I combined urban planning with computer science, enabling me to analyze large municipal datasets and preparing me to direct evidence-based policymaking and performance management in transportation, housing, and zoning."
       ]
     },
         {
       "institution": "University of South Carolina",
-      "area": "International Business, Entrepreneurship",
-      "studyType": "Bachelors of Business Administration",
+      "area": "International Business & Entrepreneurship",
+      "studyType": "Bachelors",
       "startDate": "2009-09-01",
       "endDate": "2013-12-01",
-      "courses": ["McNair Scholarship  (one of 40 full scholarships awarded to out-of-state students)", 
-      "Residence Hall President, Student Senator, and Student Council Cabinet Member."
+      "courses": ["McNair Scholar  (full scholarships for out-of-state students)", 
+      "Residence Hall President, Student Government Senator and Cabinet Member."
       ]
     }
   ],
@@ -147,7 +145,7 @@
     },
     {
       "organization": "Ewa Neighborhood Board",
-      "website": "https://gogordner.com/",
+      "website": "https://gogordner.com",
       "position": "Elected Member",
       "startDate": "2023-05",
       "endDate": "Present",
@@ -167,7 +165,7 @@
     },
     {
       "organization": "Faith Action for Community Equity",
-      "website": "https://ggordn3r.shinyapps.io/faithactionmap/",
+      "website": "https://ggordn3r.shinyapps.io/faithactionmap",
       "position": "Data Analysis Volunteer",
       "startDate": "2021-08",
       "endDate": "2022-11",
@@ -188,6 +186,12 @@
       "date": "2024",
       "awarder": "Partners for Democracy",
       "summary": "I learned to develop and execute successful political and public policy advocacy campaigns at this Hawaii non-partisan civic leadership development program."
+    },
+    {
+      "title": "Graduate Student Awards",
+      "date": "2022",
+      "awarder": "Partners for Democracy",
+      "summary": "Received the APA Virginia Outstanding Student Award in 2022, the Plan Virginia Certificate Award for student service to the program in 2021, and the Marsha Ritzdorf Book Award for best student writing in 2020."
     }
   ]
 }
