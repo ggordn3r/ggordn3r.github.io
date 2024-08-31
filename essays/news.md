@@ -17,13 +17,13 @@ Maui Now |  August 29, 2024
 
 "When it comes to the building codes, it won't impact the luxury developments at all. They'll continue to build as they've always built," Gordner said. "But the further down the [annual median income] that you're trying to provide housing for, the more significant that those sorts of rules can come to — whether or not you can make the project work at all — and that's my overall concern when it comes to housing affordability."  
 #### [As stakeholders navigate building code updates, counties bear the burden](https://www.hawaiipublicradio.org/local-news/2024-08-27/stakeholders-navigate-building-code-updates-counties-bear-burden)  
-#### Ashley Mizuo | Hawaiʻi Public Radio |  August 27, 2024  
+**Ashley Mizuo | Hawaiʻi Public Radio |  August 27, 2024**  
 
 ---  
 
-#### A local zoning expert argued \[HB 1630\] is a monster home killer. "This is the anti-monster home bill," Hawaii Zoning Atlas director Trey Gordner said. "By breaking up those large lots and allowing for smaller units, we are actually constraining developers’ ability to build those incredibly large buildings."  
-~ [Will more homes on smaller lots address Hawaii’s housing crisis?](https://www.khon2.com/local-news/more-homes-on-smaller-lots-how-this-can-address-states-need-for-more-housing/)  
-Bryce Moore | KHON |  March 8, 2024  
+> A local zoning expert argued \[HB 1630\] is a monster home killer. "This is the anti-monster home bill," Hawaii Zoning Atlas director Trey Gordner said. "By breaking up those large lots and allowing for smaller units, we are actually constraining developers’ ability to build those incredibly large buildings."  
+#### [Will more homes on smaller lots address Hawaii’s housing crisis?](https://www.khon2.com/local-news/more-homes-on-smaller-lots-how-this-can-address-states-need-for-more-housing/)  
+_Bryce Moore | KHON |  March 8, 2024_  
 
 #### _(Interview)_ A collection of zoning maps of the Hawaiian islands is being compiled. It's part of the National Zoning Atlas, which helps decode confusing land-use laws. Trey Gordner, director of the Hawaiʻi Zoning Atlas, described the project as "an online interactive map that shows how zoning laws treat housing."  
 ~ [Hawaiʻi Zoning Atlas helps people navigate land-use rules and regulations](https://www.hawaiipublicradio.org/the-conversation/2023-08-11/hawai%CA%BBi-zoning-atlas-helps-people-navigate-land-use-rules-and-regulations)  
