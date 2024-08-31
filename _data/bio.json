@@ -1,11 +1,11 @@
 {
   "basics": {
     "name": "Trey Gordner",
-    "label": "Policy Researcher/Data Scientist",
+    "label": "Policy Researcher",
     "picture": "https://github.com/ggordn3r.png",
     "email": "gordner@hawaii.edu",
     "website": "https://ggordn3r.github.io",
-    "summary": "A housing policy advisor and researcher, advocate for efficient land use, and urban planner who specializes in leading small, cross-functional teams to deliver policy and process innovation. Former civil servant and tech entrepreneur. Supply-side progressive. Proud father of 1.5.",
+    "summary": "I work on effective public policy responses to Hawaii's greatest challenges.",
     "location": { "address": "", "postalCode": "", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
       { "network": "linkedin", "username": "tgordner", "url": "https://www.linkedin.com/in/tgordner/" },
@@ -15,8 +15,9 @@
   },
   "interests": [
     { "name": "Housing affordability" },
-    { "name": "Zoning" },
+    { "name": "Land use and zoning" },
     { "name": "Infrastructure" },
+    { "name": "Parking and transportation" },
     { "name": "Urban economics" }
   ],
   "skills": [
@@ -190,7 +191,7 @@
     {
       "title": "Graduate Student Awards",
       "date": "2022",
-      "awarder": "Partners for Democracy",
+      "awarder": "Virginia Tech",
       "summary": "Received the APA Virginia Outstanding Student Award in 2022, the Plan Virginia Certificate Award for student service to the program in 2021, and the Marsha Ritzdorf Book Award for best student writing in 2020."
     }
   ]
