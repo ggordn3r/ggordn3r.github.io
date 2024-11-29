@@ -16,10 +16,7 @@ https://www.hawaiinewsnow.com/2024/10/09/troubling-data-shows-those-impacted-by-
 ---
 
 <div class="ratio ratio-4x3 my-4">
-  <iframe src="https://www.youtube.com/watch?v=mkSZ05W9JAk" 
-          title="The Role of Zoning in Hawai'i's Housing Crisis - Feb 15, 2024" 
-          allowfullscreen>
-  </iframe>
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/mkSZ05W9JAk?si=mR7nYKdwPjd0YmoK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 </div>
 
 Trey will introduce the audience to the Hawaii Zoning Atlas–including its origins, goals, process, and initial findings–and discuss how it can be used to inform the current Hawaii County planning and zoning updates. 
