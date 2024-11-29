@@ -1,19 +1,65 @@
 ---
 layout: essay
 type: essay
-title: "Igniting the fire"
+title: "On screen"
 # All dates must be YYYY-MM-DD format!
-date: 2015-08-26
-published: false
+date: 2024-11-24
+draft: true
 labels:
-  - Software Engineering
-  - Learning
+  - Webinars
+  - Interviews
 ---
 
-<img width="100px" class="rounded float-start pe-4" src="../img/igniting/paintbrushes.jpg">
+"Troubling data shows those impacted by Maui wildfire still face major economic challenges" 
+https://www.hawaiinewsnow.com/2024/10/09/troubling-data-shows-those-impacted-by-maui-wildfire-still-face-major-economic-challenges/
 
-Ever since I first grasped a paintbrush, I’ve always been eager to learn about design. Design is such a complex concept. For example, when looking at abstract art, its meaning can be completely different for different people. It motivates a person to think thoughtfully and has the potential to submerge them in a sea of imagination. It’s that special relationship between the viewer and the art that makes something as technical as software engineering interesting to me.
+---
 
-I never used to think that design and technology went hand in hand.  Thus, learning about software engineering and the role of design has been incredibly interesting to me. Design, implementation, and management are just some of the many things I wish to learn more about. Good art, in a way, makes a person question it. They become joined in the idea of visualization – where captivation meets inspiration.
+<div class="ratio ratio-4x3 my-4">
+  <iframe src="https://www.youtube.com/watch?v=mkSZ05W9JAk" 
+          title="The Role of Zoning in Hawai'i's Housing Crisis - Feb 15, 2024" 
+          allowfullscreen>
+  </iframe>
+</div>
 
-I am now starting to take a Software Engineering class. I hope to learn a lot through the course, but I know it will be just the beginning of my journey. By the time I’m done with it, I hope I’ve learned enough to take the next step in my life as a developer. But until then, my fire will keep on burning.
+Trey will introduce the audience to the Hawaii Zoning Atlas–including its origins, goals, process, and initial findings–and discuss how it can be used to inform the current Hawaii County planning and zoning updates. 
+
+---
+
+<div class="ratio ratio-4x3 my-4">
+  <iframe src="https://www.youtube.com/watch?v=1BLN3iTP4zs" 
+          title="National Zoning Atlas | State Zoning Atlas Reveal: Hawaii" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+In our third State Atlas Reveal, Trey Gordner and Sterling Higa discuss how advocates can leverage the Hawaii Zoning Atlas for tackling the state's prevailing land use challenges.
+
+---
+
+Exploring Equity in Zoning with the Hawaii Zoning Atlas (APAHI Webinar) 12/22/23 https://www.eventbrite.com/e/apahi-program-exploring-equity-in-zoning-with-the-hawaii-zoning-atlas-tickets-771317991877 
+
+---
+
+<div class="ratio ratio-4x3 my-4">
+  <iframe src="https://www.youtube.com/watch?v=mp1Hq_Cb5zY" 
+          title="Mapping Out Hawaii’s Housing Regulations (Hawaii Together)" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+Ted Kefalas talks with Trey Gordner, a graduate student and researcher in urban and regional planning at Virginia Tech, who has been working remotely from Hawaii to create a "Hawaii Zoning Atlas." Gordner hopes the new tool will help policymakers better understand the extent of Hawaii’s regulatory barriers to homebuilding and thus demonstrate the urgent need for zoning reform.
+
+---
+
+<div class="ratio ratio-4x3 my-4">
+  <iframe src="https://www.youtube.com/watch?v=Q039zSy9blc" 
+          title="Regulatory Utilization: A New Way to Measure Land Use Regulations
+" 
+          allowfullscreen>
+  </iframe>
+</div>
+
+Masters thesis defense recorded on May 9th, 2022. I studied the effects of land use regulations and how best to measure them for comparison between places and times. I proposed two new summary metrics that can be calculated from open-source GIS data, density utilization and bulk utilization. 
+
+The basic idea behind my metrics is to calculate the percentage of the rules used by actual buildings. The closer that current buildings are to the regulatory limits, the less room there is to grow, which can lead to runaway increases in land and home prices.

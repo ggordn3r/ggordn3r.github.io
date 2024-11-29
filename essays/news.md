@@ -3,10 +3,15 @@ layout: essay
 type: essay
 title: "In the news"
 # All dates must be YYYY-MM-DD format!
-date: 2024-08-30
+date: 2024-10-08
 draft: true
 labels:
   - Press
+---
+ 
+#### [Researchers say poverty and unemployment are up in Lahaina after last year’s wildfires](https://apnews.com/article/hawaii-maui-wildfires-unemployment-poverty-ce07492d00bd845a546cb8ce1becd37b)  
+**Associated Press** | October 8, 2024  
+
 ---
 
 _"The 'contradiction at the heart of housing policy' is that housing in Hawaiʻi is both shelter, which we want to remain affordable, and an investment, which we want to increase in value," said Trey Gordner, UHERO policy researcher and data scientist. "If our policy goal is to increase housing affordability without harming current property owners, our main option is to build more homes, especially 'starter homes' that prioritize shelter over investment value, such as publicly subsidized for-sale units or shared equity models. This would allow first-time buyers earning local wages a chance to enter the market, build equity and thereby stay in Hawaiʻi long-term."_  

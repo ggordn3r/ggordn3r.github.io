@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: "Smart Questions, Good Answers"
+title: "On stage"
 # All dates must be YYYY-MM-DD format!
 date: 2015-09-08
 published: false
@@ -15,7 +15,7 @@ labels:
 
 ## Is there such thing as a stupid question?
 
-I’ve had instructors address a whole class and say, “There’s no such thing as a stupid question.” I now know that is in fact not true because I’ve challenged the statement and received the appropriate dumb-stricken, annoyed look. There are definitely stupid questions, and along with that, usually unhelpful answers. Though we all might be guilty of being callous and making people victim to our poorly formed questions, there are steps we can take to ask smarter questions that hopefully don’t illicit the dreaded “rtfm” or “stfw” response.
+"https://d1wt9ys8kr8als.cloudfront.net/media/documents/2024WTPD_Flyer_PH.pdf"
 
 ## What’s a smart question?
 
