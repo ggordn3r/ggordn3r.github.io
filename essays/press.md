@@ -11,6 +11,8 @@ labels:
   - Interviews
 ---
 
+Recent news coverage of research projects, major announcements, and quotes.
+
 #### [Troubling data shows those impacted by Maui wildfire still face major economic challenges](https://www.hawaiinewsnow.com/2024/10/09/troubling-data-shows-those-impacted-by-maui-wildfire-still-face-major-economic-challenges/) 
 **Hawaii News Now** | October 9, 2024  
 

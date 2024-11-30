@@ -10,6 +10,8 @@ labels:
   - Recordings
 ---
 
+Virtual speaking engagements, including webinars, video interviews, and research presentations.
+
 #### The Role of Zoning in Hawai'i's Housing Crisis
 **Hilo Chamber of Commerce** | Feb 15, 2024
 
