@@ -11,11 +11,14 @@ labels:
   - StackOverflow
 ---
 
+- WTPD - "https://d1wt9ys8kr8als.cloudfront.net/media/documents/2024WTPD_Flyer_PH.pdf"
+- Code for America x2
+- Product manager forum
+- best library one?
+
 <img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
 
 ## Is there such thing as a stupid question?
-
-"https://d1wt9ys8kr8als.cloudfront.net/media/documents/2024WTPD_Flyer_PH.pdf"
 
 ## What’s a smart question?
 

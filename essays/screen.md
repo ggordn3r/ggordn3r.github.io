@@ -3,32 +3,28 @@ layout: essay
 type: essay
 title: "On screen"
 # All dates must be YYYY-MM-DD format!
-date: 2024-11-24
-draft: true
+date: 2024-11-30
+published: true
 labels:
   - Webinars
-  - Interviews
+  - Recordings
 ---
 
-"Troubling data shows those impacted by Maui wildfire still face major economic challenges" 
-https://www.hawaiinewsnow.com/2024/10/09/troubling-data-shows-those-impacted-by-maui-wildfire-still-face-major-economic-challenges/
+#### The Role of Zoning in Hawai'i's Housing Crisis
+**Hilo Chamber of Commerce** | Feb 15, 2024
 
----
+Trey introduces the audience to the Hawaii Zoning Atlas–including its origins, goals, process, and initial findings–and discusses how it can be used to inform the current Hawaii County planning and zoning updates. 
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mkSZ05W9JAk?si=mR7nYKdwPjd0YmoK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
-Trey will introduce the audience to the Hawaii Zoning Atlas–including its origins, goals, process, and initial findings–and discuss how it can be used to inform the current Hawaii County planning and zoning updates. 
-
 ---
 
-<div class="ratio ratio-4x3 my-4">
-  <iframe src="https://www.youtube.com/watch?v=1BLN3iTP4zs" 
-          title="National Zoning Atlas | State Zoning Atlas Reveal: Hawaii" 
-          allowfullscreen>
-  </iframe>
-</div>
+#### State Zoning Atlas Reveal: Hawaii
+**National Zoning Atlas** | Jan 10, 2024
 
 In our third State Atlas Reveal, Trey Gordner and Sterling Higa discuss how advocates can leverage the Hawaii Zoning Atlas for tackling the state's prevailing land use challenges.
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/1BLN3iTP4zs?si=I5yV4CEsrieZUSnN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ---
 
