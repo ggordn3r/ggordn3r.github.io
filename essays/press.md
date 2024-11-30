@@ -11,7 +11,7 @@ labels:
   - Interviews
 ---
 
-#### ["Troubling data shows those impacted by Maui wildfire still face major economic challenges"](https://www.hawaiinewsnow.com/2024/10/09/troubling-data-shows-those-impacted-by-maui-wildfire-still-face-major-economic-challenges/) 
+#### [Troubling data shows those impacted by Maui wildfire still face major economic challenges](https://www.hawaiinewsnow.com/2024/10/09/troubling-data-shows-those-impacted-by-maui-wildfire-still-face-major-economic-challenges/) 
 **Hawaii News Now** | October 9, 2024  
 
 #### [Researchers say poverty and unemployment are up in Lahaina after last year’s wildfires](https://apnews.com/article/hawaii-maui-wildfires-unemployment-poverty-ce07492d00bd845a546cb8ce1becd37b)  
